@@ -136,7 +136,7 @@ A decoupled client/server app for live, multi-user drawing — built as a separa
 ### 🧮 LeetCode in Java — DSA Practice Log
 **[Repository](https://github.com/ksaini-web/LeetcodeWithUsingJava)**
 
-An actively maintained problem-solving log — **108 commits, 90+ solved problems**, primarily in Java with a few in C++.
+An actively maintained problem-solving log — **260+ solved problems**, primarily in Java with a few in C++.
 
 **Stack:** Java · C++
 
