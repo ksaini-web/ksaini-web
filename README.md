@@ -33,7 +33,7 @@ public class KartikSaini implements FullStackDeveloper {
             "Building production-style REST APIs with Spring Security & JWT",
             "Designing relational schemas and entity relationships",
             "Shipping end-to-end features — DB to UI",
-            "Consistent DSA practice in Java (100+ problems solved)"
+            "Consistent DSA practice in Java (260+ problems solved)"
         };
     }
 }
@@ -42,7 +42,7 @@ public class KartikSaini implements FullStackDeveloper {
 - I design and build **full-stack web applications** — REST APIs in Spring Boot on the backend, React on the frontend, MySQL underneath.
 - My strongest project, **Shopcart**, is a two-sided e-commerce platform with JWT authentication, role-based access, Razorpay payments, and Cloudinary image hosting — architected and documented end-to-end.
 - I'm currently sharpening my **Java + Spring Boot** fundamentals and system-design thinking, aiming for backend/full-stack SDE roles.
-- Alongside project work, I keep up **consistent DSA practice in Java**, with 100+ problems solved across arrays, strings, hashing, and two-pointer patterns.
+- Alongside project work, I keep up **consistent DSA practice in Java**, with 260+ problems solved across arrays, strings, hashing, and two-pointer patterns.
 - Outside of core dev work, I like exploring real-time systems (WebSockets, collaborative tools) and clean API design.
 
 <br/>
