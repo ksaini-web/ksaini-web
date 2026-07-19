@@ -39,6 +39,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=76&lines=Spring+Boot+%2B+Spring+Security+%2B+Hibernate%2FJPA;React.js+%2B+REST+APIs+%2B+MySQL%2FMongoDB;Turning+Requirements+Into+Production-Ready+Code" alt="Typing SVG" />
 
 <br/>
+<br/>
 
 <!-- ================= BADGES ================= -->
 <!-- Replace linkedin and github usernames below -->
