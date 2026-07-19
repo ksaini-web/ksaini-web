@@ -132,34 +132,25 @@ open_to:         "Full-time Java Full Stack roles, freelance builds, collaborati
 
 ## 🏆 GitHub Trophies
 
-<!-- Replace "ksaini-web" with your GitHub username -->
-<div align="center">
-## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ksaini-web&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
-</div>
 
 <br/>
 
 ## 🐍 Contribution Snake
 
 <!--
-  ONE-TIME SETUP (on your profile repo, e.g. github.com/ksaini-web/ksaini-web):
-  1. Repo → Settings → Actions → General → enable Actions.
-  2. Add the workflow from https://github.com/Platane/snk to
-     .github/workflows/snake.yml — it generates the SVG on a schedule.
-  3. Once it runs once, the SVG becomes available at the path below.
-  4. Replace "ksaini-web" with your username in the src URL.
+  ONE-TIME SETUP REQUIRED (won't work until you do this):
+  1. Go to github.com/ksaini-web/ksaini-web → Settings → Actions → General → Enable Actions
+  2. Create file: .github/workflows/snake.yml with content from https://github.com/Platane/snk#readme
+  3. Push it, let the Action run once (takes ~1 min)
+  4. THEN this image will load
 -->
-<div align="center">
- ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ksaini-web/ksaini-web/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-</div>
 
 <br/>
 
