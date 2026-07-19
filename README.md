@@ -134,7 +134,11 @@ open_to:         "Full-time Java Full Stack roles, freelance builds, collaborati
 
 <!-- Replace "ksaini-web" with your GitHub username -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ksaini-web&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksaini-web&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
 </div>
 
 <br/>
@@ -150,7 +154,11 @@ open_to:         "Full-time Java Full Stack roles, freelance builds, collaborati
   4. Replace "ksaini-web" with your username in the src URL.
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ksaini-web/ksaini-web/output/github-contribution-grid-snake-dark.svg" width="95%" />
+ ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ksaini-web/ksaini-web/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 </div>
 
 <br/>
