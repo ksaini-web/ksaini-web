@@ -216,7 +216,7 @@ No public open-source contributions yet — all repositories above are original,
 
 [![LinkedIn](https://img.shields.io/badge/-Kartik%20Saini-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartiksaini910/)
 [![GitHub](https://img.shields.io/badge/-ksaini--web-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ksaini-web)
-[![Gmail](https://img.shields.io/badge/-your.email@example.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kartiksaini9084@gmail.com)
+[![Gmail](https://img.shields.io/badge/-kartiksaini9084@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kartiksaini9084@gmail.com)
 
 </div>
 
